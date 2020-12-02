@@ -1,5 +1,5 @@
 # Basic Plotting Data Visualization Practice By Jupyter With Python
-Basic Plotting Data Visualization Practice By Jupyter WithPython
+Here I have plotted by three axes by using two libraries, matplotlib and pandas
 
 
 
